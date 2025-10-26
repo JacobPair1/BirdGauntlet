@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Logic
+  - Pipe
   layers:
   - Default
   - TransparentFX
@@ -12,8 +13,8 @@ TagManager:
   - Bird
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Pipe
   - 
   - 
   - 

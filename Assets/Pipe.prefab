@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4607128118533264309}
   - component: {fileID: 6433147865977229806}
   - component: {fileID: 1907317536771371504}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Bottom Pipe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -145,7 +145,7 @@ GameObject:
   - component: {fileID: 5555662783611095654}
   - component: {fileID: 5323541203422908045}
   - component: {fileID: 7627586147632839191}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ' Top Pipe'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -278,9 +278,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2643012410007941382}
   - component: {fileID: 2002117653907626377}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Pipe
-  m_TagString: Untagged
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 7691984268235433596}
   - component: {fileID: 6463193114844499702}
   - component: {fileID: 857992720656386167}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Middle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -408,3 +408,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5ff9cb41e12f49e2af2fe76a0f72752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  logic: {fileID: 0}

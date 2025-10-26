@@ -24,7 +24,15 @@ public class BirdScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+
         logic.gameOver();
         birdIsAlive = false;
+
+        // if (collision.gameObject.CompareTag("Pipe")) 
+        // {
+        //     Debug.Log("Collision Detected with a Pipe.");
+        //     logic.gameOver();
+        //     birdIsAlive = false;
+        // }
     }
 }
